@@ -23,6 +23,8 @@
             </intent-filter>
         </activity>
         <activity android:name="com.zms.demo.ProgressActivity" />
+        <activity android:name="com.zms.demo.ArrowActivity" />
+        <activity android:name="com.zms.demo.SpectrumActivity" />
     </application>
 
 </manifest>
