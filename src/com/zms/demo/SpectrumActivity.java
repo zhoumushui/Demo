@@ -19,6 +19,9 @@ public class SpectrumActivity extends Activity {
 
 		ImageLayout spectrum002 = (ImageLayout) findViewById(R.id.spectrum002);
 		spectrum002.init(R.drawable.spectrum_002, "002", "#1E88E5");
+
+		ImageLayout spectrum003 = (ImageLayout) findViewById(R.id.spectrum003);
+		spectrum003.init(R.drawable.spectrum_003, "003", "#FFFFFF");
 	}
 
 }
