@@ -8,4 +8,10 @@
         android:layout_width="80dp"
         android:layout_height="100dp" />
 
+    <com.zms.demo.ImageLayout
+        android:id="@+id/progress002"
+        android:layout_width="80dp"
+        android:layout_height="100dp"
+        android:layout_toRightOf="@+id/progress001" />
+
 </RelativeLayout>
