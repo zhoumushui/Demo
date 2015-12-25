@@ -1,8 +1,8 @@
 package com.zms.demo;
 
 import android.content.Context;
+import android.graphics.Color;
 import android.graphics.drawable.Animatable;
-import android.graphics.drawable.Drawable;
 import android.util.AttributeSet;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -43,9 +43,10 @@ public class ImageLayout extends RelativeLayout {
 		textView = (TextView) relativeLayout.findViewById(R.id.textView);
 	}
 
-	public void init(int drawableId, String text) {
+	public void init(int drawableId, String text, String bgColor) {
 		imageView.setImageDrawable(getResources().getDrawable(drawableId));
 		textView.setText(text);
+		relativeLayout.setBackgroundColor(Color.parseColor(bgColor));
 		relativeLayout.setOnClickListener(new View.OnClickListener() {
 
 			@Override

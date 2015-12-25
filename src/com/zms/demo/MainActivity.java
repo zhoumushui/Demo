@@ -25,6 +25,8 @@ public class MainActivity extends Activity {
 		ListView listView = (ListView) findViewById(R.id.listView);
 		List<String> listData = new ArrayList<String>();
 		listData.add("Progress");
+		listData.add("Arrow");
+		listData.add("Spectrum");
 
 		ArrayAdapter<String> arrayAdapter = new ArrayAdapter<String>(
 				MainActivity.this, android.R.layout.simple_list_item_1,
@@ -45,6 +47,18 @@ public class MainActivity extends Activity {
 				Intent intentProgress = new Intent(MainActivity.this,
 						ProgressActivity.class);
 				startActivity(intentProgress);
+				break;
+
+			case 1:
+				Intent intentArrow = new Intent(MainActivity.this,
+						ArrowActivity.class);
+				startActivity(intentArrow);
+				break;
+
+			case 2:
+				Intent intentSpectrum = new Intent(MainActivity.this,
+						SpectrumActivity.class);
+				startActivity(intentSpectrum);
 				break;
 
 			default:
