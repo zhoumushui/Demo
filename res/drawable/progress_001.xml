@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:drawable="@drawable/progress_00100"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/progress_00101"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/progress_00102"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/progress_00103"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/progress_00104"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/progress_00105"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/progress_00106"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/progress_00107"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/progress_00108"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/progress_00109"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/progress_00110"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/progress_00111"
+        android:duration="200"/>
+
+</animation-list>
+
