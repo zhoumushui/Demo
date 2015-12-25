@@ -19,6 +19,9 @@ public class ProgressActivity extends Activity {
 
 		ImageLayout progress002 = (ImageLayout) findViewById(R.id.progress002);
 		progress002.init(R.drawable.progress_002, "002", "#FFFFFF");
+
+		ImageLayout progress003 = (ImageLayout) findViewById(R.id.progress003);
+		progress003.init(R.drawable.progress_003, "003", "#FFFFFF");
 	}
 
 }
