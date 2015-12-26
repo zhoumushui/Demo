@@ -27,6 +27,7 @@ public class MainActivity extends Activity {
 		listData.add("Progress");
 		listData.add("Arrow");
 		listData.add("Spectrum");
+		listData.add("Light");
 
 		ArrayAdapter<String> arrayAdapter = new ArrayAdapter<String>(
 				MainActivity.this, android.R.layout.simple_list_item_1,
@@ -59,6 +60,12 @@ public class MainActivity extends Activity {
 				Intent intentSpectrum = new Intent(MainActivity.this,
 						SpectrumActivity.class);
 				startActivity(intentSpectrum);
+				break;
+
+			case 3:
+				Intent intentLight = new Intent(MainActivity.this,
+						LightActivity.class);
+				startActivity(intentLight);
 				break;
 
 			default:
