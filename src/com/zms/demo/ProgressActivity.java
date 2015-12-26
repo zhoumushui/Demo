@@ -31,6 +31,9 @@ public class ProgressActivity extends Activity {
 
 		ImageLayout progress006 = (ImageLayout) findViewById(R.id.progress006);
 		progress006.init(R.drawable.progress_006, "006", "#FFFFFF");
+		
+		ImageLayout progress007 = (ImageLayout) findViewById(R.id.progress007);
+		progress007.init(R.drawable.progress_007, "007", "#1E88E5");
 	}
 
 }
