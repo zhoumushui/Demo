@@ -8,4 +8,17 @@
         android:layout_width="@dimen/image_layout_width_x2"
         android:layout_height="@dimen/image_layout_height_x2" />
 
+    <com.zms.demo.ImageLayout
+        android:id="@+id/light002"
+        android:layout_width="@dimen/image_layout_width_x2"
+        android:layout_height="@dimen/image_layout_height"
+        android:layout_toRightOf="@id/light001" />
+
+    <com.zms.demo.ImageLayout
+        android:id="@+id/light003"
+        android:layout_width="@dimen/image_layout_width_x2"
+        android:layout_height="@dimen/image_layout_height"
+        android:layout_below="@id/light002"
+        android:layout_toRightOf="@id/light001" />
+
 </RelativeLayout>
