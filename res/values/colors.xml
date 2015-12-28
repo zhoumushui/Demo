@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="fancy_blue">#1E88E5</color>
+    <color name="fancy_green">#009966</color>
+    <color name="fancy_white">#FFFFFF</color>
+    <color name="fancy_yellow">#FFFF00</color>
+
+</resources>

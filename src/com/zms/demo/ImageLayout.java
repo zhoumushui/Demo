@@ -43,10 +43,10 @@ public class ImageLayout extends RelativeLayout {
 		textView = (TextView) relativeLayout.findViewById(R.id.textView);
 	}
 
-	public void init(int drawableId, String text, String bgColor) {
+	public void init(int drawableId, String text, int bgColor) {
 		imageView.setImageDrawable(getResources().getDrawable(drawableId));
 		textView.setText(text);
-		relativeLayout.setBackgroundColor(Color.parseColor(bgColor));
+		relativeLayout.setBackgroundColor(bgColor);
 		relativeLayout.setOnClickListener(new View.OnClickListener() {
 
 			@Override

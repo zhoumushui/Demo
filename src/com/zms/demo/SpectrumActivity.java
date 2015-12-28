@@ -15,16 +15,20 @@ public class SpectrumActivity extends Activity {
 
 	private void initialLayout() {
 		ImageLayout spectrum001 = (ImageLayout) findViewById(R.id.spectrum001);
-		spectrum001.init(R.drawable.spectrum_001, "001", "#1E88E5");
+		spectrum001.init(R.drawable.spectrum_001, "001", getResources()
+				.getColor(R.color.fancy_blue));
 
 		ImageLayout spectrum002 = (ImageLayout) findViewById(R.id.spectrum002);
-		spectrum002.init(R.drawable.spectrum_002, "002", "#1E88E5");
+		spectrum002.init(R.drawable.spectrum_002, "002", getResources()
+				.getColor(R.color.fancy_blue));
 
 		ImageLayout spectrum003 = (ImageLayout) findViewById(R.id.spectrum003);
-		spectrum003.init(R.drawable.spectrum_003, "003", "#FFFFFF");
+		spectrum003.init(R.drawable.spectrum_003, "003", getResources()
+				.getColor(R.color.fancy_white));
 
 		ImageLayout spectrum004 = (ImageLayout) findViewById(R.id.spectrum004);
-		spectrum004.init(R.drawable.spectrum_004, "004", "#FFFFFF");
+		spectrum004.init(R.drawable.spectrum_004, "004", getResources()
+				.getColor(R.color.fancy_blue));
 	}
 
 }

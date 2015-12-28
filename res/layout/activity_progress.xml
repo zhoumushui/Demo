@@ -60,4 +60,11 @@
         android:layout_alignParentLeft="true"
         android:layout_below="@id/progress005" />
 
+    <com.zms.demo.ImageLayout
+        android:id="@+id/progress010"
+        android:layout_width="@dimen/image_layout_width"
+        android:layout_height="@dimen/image_layout_height"
+        android:layout_below="@id/progress006"
+        android:layout_toRightOf="@id/progress009" />
+
 </RelativeLayout>

@@ -15,10 +15,12 @@ public class BatteryActivity extends Activity {
 
 	private void initialLayout() {
 		ImageLayout battery001 = (ImageLayout) findViewById(R.id.battery001);
-		battery001.init(R.drawable.battery_001, "001", "#FFFFFF");
-		
+		battery001.init(R.drawable.battery_001, "001",
+				getResources().getColor(R.color.fancy_white));
+
 		ImageLayout battery002 = (ImageLayout) findViewById(R.id.battery002);
-		battery002.init(R.drawable.battery_002, "002", "#1E88E5");
+		battery002.init(R.drawable.battery_002, "002",
+				getResources().getColor(R.color.fancy_blue));
 	}
 
 }
