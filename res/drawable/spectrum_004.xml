@@ -3,15 +3,15 @@
 
     <item
         android:drawable="@drawable/spectrum_00401"
-        android:duration="200"/>
+        android:duration="400"/>
     <item
         android:drawable="@drawable/spectrum_00402"
-        android:duration="200"/>
+        android:duration="400"/>
     <item
         android:drawable="@drawable/spectrum_00403"
-        android:duration="200"/>
+        android:duration="400"/>
     <item
         android:drawable="@drawable/spectrum_00404"
-        android:duration="200"/>
+        android:duration="400"/>
 
 </animation-list>
