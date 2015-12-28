@@ -28,6 +28,7 @@
         <activity android:name="com.zms.demo.LightActivity" />
         <activity android:name="com.zms.demo.BatteryActivity" />
         <activity android:name="com.zms.demo.HandActivity" />
+        <activity android:name="com.zms.demo.BellActivity" />
     </application>
 
 </manifest>

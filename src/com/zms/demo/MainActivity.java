@@ -10,8 +10,11 @@ import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
+import android.widget.Toast;
 
 public class MainActivity extends Activity {
+
+	private List<String> listData;
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
@@ -23,13 +26,14 @@ public class MainActivity extends Activity {
 
 	private void initialLayout() {
 		ListView listView = (ListView) findViewById(R.id.listView);
-		List<String> listData = new ArrayList<String>();
+		listData = new ArrayList<String>();
 		listData.add("Progress");
 		listData.add("Arrow");
 		listData.add("Spectrum");
 		listData.add("Light");
 		listData.add("Battery");
 		listData.add("Hand");
+		listData.add("Bell");
 
 		ArrayAdapter<String> arrayAdapter = new ArrayAdapter<String>(
 				MainActivity.this, android.R.layout.simple_list_item_1,
@@ -45,48 +49,16 @@ public class MainActivity extends Activity {
 		@Override
 		public void onItemClick(AdapterView<?> parent, View view, int position,
 				long id) {
-			switch (position) {
-			case 0:
-				Intent intentProgress = new Intent(MainActivity.this,
-						ProgressActivity.class);
-				startActivity(intentProgress);
-				break;
-
-			case 1:
-				Intent intentArrow = new Intent(MainActivity.this,
-						ArrowActivity.class);
-				startActivity(intentArrow);
-				break;
-
-			case 2:
-				Intent intentSpectrum = new Intent(MainActivity.this,
-						SpectrumActivity.class);
-				startActivity(intentSpectrum);
-				break;
-
-			case 3:
-				Intent intentLight = new Intent(MainActivity.this,
-						LightActivity.class);
-				startActivity(intentLight);
-				break;
-
-			case 4:
-				Intent intentBattery = new Intent(MainActivity.this,
-						BatteryActivity.class);
-				startActivity(intentBattery);
-				break;
-
-			case 5:
-				Intent intentHand = new Intent(MainActivity.this,
-						HandActivity.class);
-				startActivity(intentHand);
-				break;
-
-			default:
-				break;
+			try {
+				Intent intent = new Intent(MainActivity.this,
+						Class.forName("com.zms.demo." + listData.get(position)
+								+ "Activity"));
+				startActivity(intent);
+			} catch (ClassNotFoundException e) {
+				Toast.makeText(MainActivity.this, "ClassNF:" + e.toString(),
+						Toast.LENGTH_SHORT).show();
+				e.printStackTrace();
 			}
-
 		}
-
 	}
 }
