@@ -22,13 +22,27 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.zms.demo.ProgressActivity" />
-        <activity android:name="com.zms.demo.ArrowActivity" />
-        <activity android:name="com.zms.demo.SpectrumActivity" />
-        <activity android:name="com.zms.demo.LightActivity" />
-        <activity android:name="com.zms.demo.BatteryActivity" />
-        <activity android:name="com.zms.demo.HandActivity" />
-        <activity android:name="com.zms.demo.BellActivity" />
+        <activity
+            android:name="com.zms.demo.ProgressActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.zms.demo.ArrowActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.zms.demo.SpectrumActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.zms.demo.LightActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.zms.demo.BatteryActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.zms.demo.HandActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.zms.demo.BellActivity"
+            android:screenOrientation="portrait" />
     </application>
 
 </manifest>
