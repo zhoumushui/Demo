@@ -15,7 +15,10 @@ public class BatteryActivity extends Activity {
 
 	private void initialLayout() {
 		ImageLayout battery001 = (ImageLayout) findViewById(R.id.battery001);
-		battery001.init(R.drawable.battery_001, "001", "#FFFFFF"); // #1E88E5
+		battery001.init(R.drawable.battery_001, "001", "#FFFFFF");
+		
+		ImageLayout battery002 = (ImageLayout) findViewById(R.id.battery002);
+		battery002.init(R.drawable.battery_002, "002", "#1E88E5");
 	}
 
 }
