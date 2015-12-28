@@ -27,13 +27,14 @@ public class MainActivity extends Activity {
 	private void initialLayout() {
 		ListView listView = (ListView) findViewById(R.id.listView);
 		listData = new ArrayList<String>();
-		listData.add("Progress");
 		listData.add("Arrow");
-		listData.add("Spectrum");
-		listData.add("Light");
 		listData.add("Battery");
-		listData.add("Hand");
 		listData.add("Bell");
+		listData.add("Hand");
+		listData.add("Light");
+		listData.add("Progress");
+		listData.add("Ripple");
+		listData.add("Spectrum");
 
 		ArrayAdapter<String> arrayAdapter = new ArrayAdapter<String>(
 				MainActivity.this, android.R.layout.simple_list_item_1,
@@ -55,7 +56,7 @@ public class MainActivity extends Activity {
 								+ "Activity"));
 				startActivity(intent);
 			} catch (ClassNotFoundException e) {
-				Toast.makeText(MainActivity.this, "ClassNF:" + e.toString(),
+				Toast.makeText(MainActivity.this, "ClassNotFound:" + e.toString(),
 						Toast.LENGTH_SHORT).show();
 				e.printStackTrace();
 			}

@@ -43,6 +43,9 @@
         <activity
             android:name="com.zms.demo.BellActivity"
             android:screenOrientation="portrait" />
+        <activity
+            android:name="com.zms.demo.RippleActivity"
+            android:screenOrientation="portrait" />
     </application>
 
 </manifest>
