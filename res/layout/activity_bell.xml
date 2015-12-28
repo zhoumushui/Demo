@@ -1,11 +1,16 @@
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
+<ScrollView xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent" >
 
-    <com.zms.demo.ImageLayout
-        android:id="@+id/bell001"
-        android:layout_width="@dimen/image_layout_width"
-        android:layout_height="@dimen/image_layout_height" />
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
 
-</RelativeLayout>
+        <com.zms.demo.ImageLayout
+            android:id="@+id/bell001"
+            android:layout_width="@dimen/image_layout_width"
+            android:layout_height="@dimen/image_layout_height" />
+    </RelativeLayout>
+
+</ScrollView>
