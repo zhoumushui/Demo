@@ -87,20 +87,26 @@
         android:layout_height="@dimen/image_layout_height"
         android:layout_alignParentLeft="true"
         android:layout_below="@id/progress009" />
-    
-     <com.zms.demo.ImageLayout
+
+    <com.zms.demo.ImageLayout
         android:id="@+id/progress014"
         android:layout_width="@dimen/image_layout_width"
         android:layout_height="@dimen/image_layout_height"
-        android:layout_toRightOf="@id/progress013"
-        android:layout_below="@id/progress010" />
-     
-      <com.zms.demo.ImageLayout
+        android:layout_below="@id/progress010"
+        android:layout_toRightOf="@id/progress013" />
+
+    <com.zms.demo.ImageLayout
         android:id="@+id/progress015"
         android:layout_width="@dimen/image_layout_width_x2"
         android:layout_height="@dimen/image_layout_height"
-        android:layout_toRightOf="@id/progress014"
-        android:layout_below="@id/progress011" />
-    
+        android:layout_below="@id/progress011"
+        android:layout_toRightOf="@id/progress014" />
+
+    <com.zms.demo.ImageLayout
+        android:id="@+id/progress016"
+        android:layout_width="@dimen/image_layout_width"
+        android:layout_height="@dimen/image_layout_height"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/progress013" />
 
 </RelativeLayout>

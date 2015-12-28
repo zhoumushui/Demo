@@ -45,6 +45,8 @@ public class ImageLayout extends RelativeLayout {
 
 	public void init(int drawableId, String text, int bgColor) {
 		imageView.setImageDrawable(getResources().getDrawable(drawableId));
+		((Animatable) imageView.getDrawable()).start();
+		isPlaying = true;
 		textView.setText(text);
 		relativeLayout.setBackgroundColor(bgColor);
 		relativeLayout.setOnClickListener(new View.OnClickListener() {
