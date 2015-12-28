@@ -19,7 +19,7 @@
     <item
         android:drawable="@drawable/spectrum_00906"
         android:duration="200"/>
-       <item
+    <item
         android:drawable="@drawable/spectrum_00907"
         android:duration="200"/>
     <item

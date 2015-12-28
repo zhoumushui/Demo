@@ -74,5 +74,12 @@
         android:layout_height="@dimen/image_layout_height"
         android:layout_below="@id/spectrum007"
         android:layout_toRightOf="@id/spectrum010" />
+    
+      <com.zms.demo.ImageLayout
+        android:id="@+id/spectrum012"
+        android:layout_width="@dimen/image_layout_width"
+        android:layout_height="@dimen/image_layout_height"
+        android:layout_below="@id/spectrum008"
+        android:layout_toRightOf="@id/spectrum011" />
 
 </RelativeLayout>
