@@ -30,6 +30,7 @@ public class MainActivity extends Activity {
 		listData.add("Arrow");
 		listData.add("Battery");
 		listData.add("Bell");
+		listData.add("Figure");
 		listData.add("Hand");
 		listData.add("Light");
 		listData.add("Progress");
