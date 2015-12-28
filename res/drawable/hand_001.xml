@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:drawable="@drawable/hand_00101"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/hand_00102"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/hand_00103"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/hand_00104"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/hand_00105"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/hand_00106"
+        android:duration="200"/>
+
+</animation-list>
