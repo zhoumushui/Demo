@@ -28,6 +28,7 @@ public class MainActivity extends Activity {
 		listData.add("Arrow");
 		listData.add("Spectrum");
 		listData.add("Light");
+		listData.add("Battery");
 
 		ArrayAdapter<String> arrayAdapter = new ArrayAdapter<String>(
 				MainActivity.this, android.R.layout.simple_list_item_1,
@@ -66,6 +67,12 @@ public class MainActivity extends Activity {
 				Intent intentLight = new Intent(MainActivity.this,
 						LightActivity.class);
 				startActivity(intentLight);
+				break;
+
+			case 4:
+				Intent intentBattery = new Intent(MainActivity.this,
+						BatteryActivity.class);
+				startActivity(intentBattery);
 				break;
 
 			default:

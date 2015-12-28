@@ -26,6 +26,7 @@
         <activity android:name="com.zms.demo.ArrowActivity" />
         <activity android:name="com.zms.demo.SpectrumActivity" />
         <activity android:name="com.zms.demo.LightActivity" />
+        <activity android:name="com.zms.demo.BatteryActivity" />
     </application>
 
 </manifest>
