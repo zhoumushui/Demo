@@ -8,6 +8,7 @@
     <color name="fancy_yellow">#FFFF00</color>
     <color name="fancy_grey">#CCCCCC</color>
     <color name="fancy_orange">#FFCC00</color>
+    <color name="fancy_red">#FF6666</color>
     <color name="fancy_teal">#006666</color>
 
 </resources>
