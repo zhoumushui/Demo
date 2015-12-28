@@ -10,8 +10,14 @@
 
     <com.zms.demo.ImageLayout
         android:id="@+id/battery002"
-        android:layout_toRightOf="@id/battery001"
         android:layout_width="@dimen/image_layout_width"
-        android:layout_height="@dimen/image_layout_height" />
+        android:layout_height="@dimen/image_layout_height"
+        android:layout_toRightOf="@id/battery001" />
+
+    <com.zms.demo.ImageLayout
+        android:id="@+id/battery003"
+        android:layout_width="@dimen/image_layout_width"
+        android:layout_height="@dimen/image_layout_height"
+        android:layout_toRightOf="@id/battery002" />
 
 </RelativeLayout>
