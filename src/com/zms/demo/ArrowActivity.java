@@ -25,6 +25,10 @@ public class ArrowActivity extends Activity {
 		ImageLayout arrow003 = (ImageLayout) findViewById(R.id.arrow003);
 		arrow003.init(R.drawable.arrow_003, "003",
 				getResources().getColor(R.color.fancy_red));
+		
+		ImageLayout arrow004 = (ImageLayout) findViewById(R.id.arrow004);
+		arrow004.init(R.drawable.arrow_004, "004",
+				getResources().getColor(R.color.fancy_green));
 	}
 
 }
