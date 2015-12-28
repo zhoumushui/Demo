@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:drawable="@drawable/spectrum_01101"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/spectrum_01102"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/spectrum_01103"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/spectrum_01104"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/spectrum_01105"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/spectrum_01106"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/spectrum_01107"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/spectrum_01108"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/spectrum_01109"
+        android:duration="200"/>
+
+</animation-list>
