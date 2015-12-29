@@ -36,6 +36,20 @@
             android:layout_height="@dimen/image_layout_height"
             android:layout_alignParentLeft="true"
             android:layout_below="@id/arrow001" />
+
+        <com.zms.demo.ImageLayout
+            android:id="@+id/arrow006"
+            android:layout_width="@dimen/image_layout_width"
+            android:layout_height="@dimen/image_layout_height"
+            android:layout_below="@id/arrow002"
+            android:layout_toRightOf="@id/arrow005" />
+
+        <com.zms.demo.ImageLayout
+            android:id="@+id/arrow007"
+            android:layout_width="@dimen/image_layout_width"
+            android:layout_height="@dimen/image_layout_height"
+            android:layout_below="@id/arrow003"
+            android:layout_toRightOf="@id/arrow006" />
     </RelativeLayout>
 
 </ScrollView>
