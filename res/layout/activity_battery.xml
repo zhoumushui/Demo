@@ -29,6 +29,13 @@
             android:layout_width="@dimen/image_layout_width"
             android:layout_height="@dimen/image_layout_height"
             android:layout_toRightOf="@id/battery003" />
+
+        <com.zms.demo.ImageLayout
+            android:id="@+id/battery005"
+            android:layout_width="@dimen/image_layout_width"
+            android:layout_height="@dimen/image_layout_height"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@id/battery001" />
     </RelativeLayout>
 
 </ScrollView>

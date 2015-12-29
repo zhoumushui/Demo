@@ -29,6 +29,10 @@ public class BatteryActivity extends Activity {
 		ImageLayout battery004 = (ImageLayout) findViewById(R.id.battery004);
 		battery004.init(R.drawable.battery_004, "004",
 				getResources().getColor(R.color.fancy_orange));
+
+		ImageLayout battery005 = (ImageLayout) findViewById(R.id.battery005);
+		battery005.init(R.drawable.battery_005, "005",
+				getResources().getColor(R.color.fancy_white));
 	}
 
 }
