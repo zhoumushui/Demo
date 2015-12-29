@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:drawable="@drawable/progress_02301"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/progress_02302"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/progress_02304"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/progress_02303"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/progress_02305"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/progress_02306"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/progress_02307"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/progress_02308"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/progress_02309"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/progress_02310"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/progress_02311"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/progress_02312"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/progress_02313"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/progress_02314"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/progress_02315"
+        android:duration="200"/>
+
+</animation-list>
