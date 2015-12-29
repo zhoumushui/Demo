@@ -84,6 +84,10 @@ public class SpectrumActivity extends Activity {
 
 		ImageLayout spectrum018 = (ImageLayout) findViewById(R.id.spectrum018);
 		spectrum018.init(R.drawable.spectrum_018, "018", getResources()
+				.getColor(R.color.fancy_yellow));
+		
+		ImageLayout spectrum019 = (ImageLayout) findViewById(R.id.spectrum019);
+		spectrum019.init(R.drawable.spectrum_019, "019", getResources()
 				.getColor(R.color.fancy_white));
 
 	}
