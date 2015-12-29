@@ -36,6 +36,7 @@ public class MainActivity extends Activity {
 		listData.add("Progress");
 		listData.add("Ripple");
 		listData.add("Spectrum");
+		listData.add("Star");
 
 		ArrayAdapter<String> arrayAdapter = new ArrayAdapter<String>(
 				MainActivity.this, android.R.layout.simple_list_item_1,
@@ -57,8 +58,9 @@ public class MainActivity extends Activity {
 								+ "Activity"));
 				startActivity(intent);
 			} catch (ClassNotFoundException e) {
-				Toast.makeText(MainActivity.this, "ClassNotFound:" + e.toString(),
-						Toast.LENGTH_SHORT).show();
+				Toast.makeText(MainActivity.this,
+						"ClassNotFound:" + e.toString(), Toast.LENGTH_SHORT)
+						.show();
 				e.printStackTrace();
 			}
 		}

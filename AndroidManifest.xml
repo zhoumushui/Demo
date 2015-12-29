@@ -49,6 +49,9 @@
         <activity
             android:name="com.zms.demo.FigureActivity"
             android:screenOrientation="portrait" />
+        <activity
+            android:name="com.zms.demo.StarActivity"
+            android:screenOrientation="portrait" />
     </application>
 
 </manifest>
