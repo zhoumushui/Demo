@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:drawable="@drawable/spectrum_02600"
+        android:duration="300"/>
+    <item
+        android:drawable="@drawable/spectrum_02601"
+        android:duration="300"/>
+    <item
+        android:drawable="@drawable/spectrum_02602"
+        android:duration="300"/>
+    <item
+        android:drawable="@drawable/spectrum_02603"
+        android:duration="300"/>
+
+</animation-list>
