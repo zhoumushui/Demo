@@ -17,6 +17,10 @@ public class StarActivity extends Activity {
 		ImageLayout star001 = (ImageLayout) findViewById(R.id.star001);
 		star001.init(R.drawable.star_001, "001",
 				getResources().getColor(R.color.fancy_white));
+
+		ImageLayout star002 = (ImageLayout) findViewById(R.id.star002);
+		star002.init(R.drawable.star_002, "002",
+				getResources().getColor(R.color.fancy_white));
 	}
 
 }
