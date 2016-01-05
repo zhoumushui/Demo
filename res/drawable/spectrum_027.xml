@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:drawable="@drawable/spectrum_02701"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/spectrum_02702"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/spectrum_02703"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/spectrum_02704"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/spectrum_02705"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/spectrum_02706"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/spectrum_02707"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/spectrum_02708"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/spectrum_02709"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/spectrum_02710"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/spectrum_02711"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/spectrum_02712"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/spectrum_02713"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/spectrum_02714"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/spectrum_02715"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/spectrum_02716"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/spectrum_02717"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/spectrum_02718"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/spectrum_02719"
+        android:duration="200"/>
+        <item
+        android:drawable="@drawable/spectrum_02720"
+        android:duration="200"/>
+
+</animation-list>
