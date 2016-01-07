@@ -280,6 +280,20 @@
             android:layout_height="@dimen/image_layout_height"
             android:layout_below="@id/progress036"
             android:layout_toRightOf="@id/progress039" />
+
+        <com.zms.demo.ImageLayout
+            android:id="@+id/progress041"
+            android:layout_width="@dimen/image_layout_width"
+            android:layout_height="@dimen/image_layout_height"
+            android:layout_below="@id/progress037"
+            android:layout_toRightOf="@id/progress040" />
+
+        <com.zms.demo.ImageLayout
+            android:id="@+id/progress042"
+            android:layout_width="@dimen/image_layout_width"
+            android:layout_height="@dimen/image_layout_height"
+            android:layout_below="@id/progress038"
+            android:layout_toRightOf="@id/progress041" />
     </RelativeLayout>
 
 </ScrollView>
