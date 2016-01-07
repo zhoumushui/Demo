@@ -25,6 +25,10 @@ public class FigureActivity extends Activity {
 		ImageLayout figure003 = (ImageLayout) findViewById(R.id.figure003);
 		figure003.init(R.drawable.figure_003, "003",
 				getResources().getColor(R.color.fancy_orange));
+
+		ImageLayout figure004 = (ImageLayout) findViewById(R.id.figure004);
+		figure004.init(R.drawable.figure_004, "004",
+				getResources().getColor(R.color.fancy_white));
 	}
 
 }
