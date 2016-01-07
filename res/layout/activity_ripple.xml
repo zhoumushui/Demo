@@ -26,4 +26,11 @@
         android:layout_height="@dimen/image_layout_height"
         android:layout_toRightOf="@id/ripple003" />
 
+    <com.zms.demo.ImageLayout
+        android:id="@+id/ripple005"
+        android:layout_width="@dimen/image_layout_width"
+        android:layout_height="@dimen/image_layout_height"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/ripple001" />
+
 </RelativeLayout>

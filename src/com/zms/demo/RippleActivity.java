@@ -30,6 +30,10 @@ public class RippleActivity extends Activity {
 		ripple004.init(R.drawable.ripple_004, "004",
 				getResources().getColor(R.color.fancy_yellow));
 
+		ImageLayout ripple005 = (ImageLayout) findViewById(R.id.ripple005);
+		ripple005.init(R.drawable.ripple_005, "005",
+				getResources().getColor(R.color.fancy_blue));
+
 	}
 
 }
