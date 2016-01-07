@@ -23,6 +23,12 @@
             android:layout_width="@dimen/image_layout_width"
             android:layout_height="@dimen/image_layout_height"
             android:layout_toRightOf="@id/hand002" />
+
+        <com.zms.demo.ImageLayout
+            android:id="@+id/hand004"
+            android:layout_width="@dimen/image_layout_width"
+            android:layout_height="@dimen/image_layout_height"
+            android:layout_toRightOf="@id/hand003" />
     </RelativeLayout>
 
 </ScrollView>
