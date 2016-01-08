@@ -10,7 +10,7 @@
     <item
         android:drawable="@drawable/progress_04503"
         android:duration="200"/>
-        <item
+    <item
         android:drawable="@drawable/progress_04504"
         android:duration="200"/>
 
