@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:drawable="@drawable/progress_04301"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/progress_04302"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/progress_04303"
+        android:duration="200"/>
+
+</animation-list>
