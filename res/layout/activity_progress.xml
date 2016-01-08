@@ -306,8 +306,15 @@
             android:id="@+id/progress044"
             android:layout_width="@dimen/image_layout_width"
             android:layout_height="@dimen/image_layout_height"
-            android:layout_below="@id/progress039"
+            android:layout_below="@id/progress040"
             android:layout_toRightOf="@id/progress043" />
+
+        <com.zms.demo.ImageLayout
+            android:id="@+id/progress045"
+            android:layout_width="@dimen/image_layout_width"
+            android:layout_height="@dimen/image_layout_height"
+            android:layout_below="@id/progress041"
+            android:layout_toRightOf="@id/progress044" />
     </RelativeLayout>
 
 </ScrollView>
