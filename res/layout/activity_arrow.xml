@@ -71,6 +71,20 @@
             android:layout_height="@dimen/image_layout_height"
             android:layout_below="@id/arrow006"
             android:layout_toRightOf="@id/arrow009" />
+
+        <com.zms.demo.ImageLayout
+            android:id="@+id/arrow011"
+            android:layout_width="@dimen/image_layout_width"
+            android:layout_height="@dimen/image_layout_height"
+            android:layout_below="@id/arrow007"
+            android:layout_toRightOf="@id/arrow010" />
+
+        <com.zms.demo.ImageLayout
+            android:id="@+id/arrow012"
+            android:layout_width="@dimen/image_layout_width"
+            android:layout_height="@dimen/image_layout_height"
+            android:layout_below="@id/arrow008"
+            android:layout_toRightOf="@id/arrow011" />
     </RelativeLayout>
 
 </ScrollView>
