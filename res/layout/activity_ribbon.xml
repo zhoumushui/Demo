@@ -1,0 +1,11 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <com.zms.demo.ImageLayout
+        android:id="@+id/ribbon001"
+        android:layout_width="@dimen/image_layout_width"
+        android:layout_height="@dimen/image_layout_height" />
+
+</RelativeLayout>

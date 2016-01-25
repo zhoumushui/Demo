@@ -25,31 +25,34 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.zms.demo.ProgressActivity"
-            android:screenOrientation="portrait" />
-        <activity
             android:name="com.zms.demo.ArrowActivity"
-            android:screenOrientation="portrait" />
-        <activity
-            android:name="com.zms.demo.SpectrumActivity"
-            android:screenOrientation="portrait" />
-        <activity
-            android:name="com.zms.demo.LightActivity"
             android:screenOrientation="portrait" />
         <activity
             android:name="com.zms.demo.BatteryActivity"
             android:screenOrientation="portrait" />
         <activity
+            android:name="com.zms.demo.BellActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.zms.demo.FigureActivity"
+            android:screenOrientation="portrait" />
+        <activity
             android:name="com.zms.demo.HandActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.zms.demo.BellActivity"
+            android:name="com.zms.demo.LightActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.zms.demo.ProgressActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.zms.demo.RibbonActivity"
             android:screenOrientation="portrait" />
         <activity
             android:name="com.zms.demo.RippleActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.zms.demo.FigureActivity"
+            android:name="com.zms.demo.SpectrumActivity"
             android:screenOrientation="portrait" />
         <activity
             android:name="com.zms.demo.StarActivity"

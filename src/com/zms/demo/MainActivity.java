@@ -34,6 +34,7 @@ public class MainActivity extends Activity {
 		listData.add("Hand");
 		listData.add("Light");
 		listData.add("Progress");
+		listData.add("Ribbon");
 		listData.add("Ripple");
 		listData.add("Spectrum");
 		listData.add("Star");
