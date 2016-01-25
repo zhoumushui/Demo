@@ -10,5 +10,6 @@
     <color name="fancy_orange">#FFCC00</color>
     <color name="fancy_red">#FF6666</color>
     <color name="fancy_teal">#006666</color>
+    <color name="edge_of_image_layout">#000000</color>
 
 </resources>
