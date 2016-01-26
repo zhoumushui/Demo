@@ -40,4 +40,11 @@
         android:layout_below="@id/ripple002"
         android:layout_toRightOf="@id/ripple005" />
 
+    <com.zms.demo.ImageLayout
+        android:id="@+id/ripple007"
+        android:layout_width="@dimen/image_layout_width"
+        android:layout_height="@dimen/image_layout_height"
+        android:layout_below="@id/ripple003"
+        android:layout_toRightOf="@id/ripple006" />
+
 </RelativeLayout>
