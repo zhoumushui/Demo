@@ -33,6 +33,10 @@ public class LightActivity extends Activity {
 		ImageLayout light005 = (ImageLayout) findViewById(R.id.light005);
 		light005.init(R.drawable.light_005, "005",
 				getResources().getColor(R.color.fancy_white));
+
+		ImageLayout light006 = (ImageLayout) findViewById(R.id.light006);
+		light006.init(R.drawable.light_006, "006",
+				getResources().getColor(R.color.fancy_black));
 	}
 
 }
