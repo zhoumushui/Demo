@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:drawable="@drawable/spectrum_03201"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/spectrum_03202"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/spectrum_03203"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/spectrum_03204"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/spectrum_03205"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/spectrum_03206"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/spectrum_03207"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/spectrum_03208"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/spectrum_03209"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/spectrum_03210"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/spectrum_03211"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/spectrum_03212"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/spectrum_03213"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/spectrum_03214"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/spectrum_03215"
+        android:duration="200"/>
+
+</animation-list>
