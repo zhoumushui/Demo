@@ -38,6 +38,7 @@ public class MainActivity extends Activity {
 		listData.add("Ripple");
 		listData.add("Spectrum");
 		listData.add("Star");
+		listData.add("Text");
 
 		ArrayAdapter<String> arrayAdapter = new ArrayAdapter<String>(
 				MainActivity.this, android.R.layout.simple_list_item_1,
