@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:drawable="@drawable/progress_06500"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/progress_06501"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/progress_06502"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/progress_06503"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/progress_06504"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/progress_06505"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/progress_06506"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/progress_06507"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/progress_06508"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/progress_06509"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/progress_06510"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/progress_06511"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/progress_06512"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/progress_06513"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/progress_06514"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/progress_06515"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/progress_06516"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/progress_06517"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/progress_06518"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/progress_06519"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/progress_06520"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/progress_06521"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/progress_06522"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/progress_06523"
+        android:duration="100"/>
+
+</animation-list>
