@@ -258,6 +258,10 @@ public class ProgressActivity extends Activity {
 		progress061.init(R.drawable.progress_061, "061", getResources()
 				.getColor(R.color.fancy_red));
 
+		ImageLayout progress062 = (ImageLayout) findViewById(R.id.progress062);
+		progress062.init(R.drawable.progress_062, "062", getResources()
+				.getColor(R.color.fancy_white));
+
 	}
 
 }
