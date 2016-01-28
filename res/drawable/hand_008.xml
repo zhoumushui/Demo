@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:drawable="@drawable/hand_00800"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/hand_00801"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/hand_00802"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/hand_00803"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/hand_00804"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/hand_00805"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/hand_00806"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/hand_00807"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/hand_00808"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/hand_00809"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/hand_00810"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/hand_00811"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/hand_00812"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/hand_00813"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/hand_00814"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/hand_00815"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/hand_00816"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/hand_00817"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/hand_00818"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/hand_00819"
+        android:duration="200"/>
+
+</animation-list>
