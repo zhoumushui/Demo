@@ -45,6 +45,10 @@ public class HandActivity extends Activity {
 		ImageLayout hand008 = (ImageLayout) findViewById(R.id.hand008);
 		hand008.init(R.drawable.hand_008, "008",
 				getResources().getColor(R.color.fancy_teal));
+
+		ImageLayout hand009 = (ImageLayout) findViewById(R.id.hand009);
+		hand009.init(R.drawable.hand_009, "009",
+				getResources().getColor(R.color.fancy_blue));
 	}
 
 }

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:drawable="@drawable/hand_00900"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/hand_00901"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/hand_00902"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/hand_00903"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/hand_00904"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/hand_00905"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/hand_00906"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/hand_00907"
+        android:duration="200"/>
+
+</animation-list>
