@@ -3,30 +3,30 @@
 
     <item
         android:drawable="@drawable/arrow_01401"
-        android:duration="100"/>
+        android:duration="200"/>
     <item
         android:drawable="@drawable/arrow_01402"
-        android:duration="100"/>
+        android:duration="200"/>
     <item
         android:drawable="@drawable/arrow_01403"
-        android:duration="100"/>
+        android:duration="200"/>
     <item
         android:drawable="@drawable/arrow_01404"
-        android:duration="100"/>
+        android:duration="200"/>
     <item
         android:drawable="@drawable/arrow_01405"
-        android:duration="100"/>
+        android:duration="200"/>
     <item
         android:drawable="@drawable/arrow_01406"
-        android:duration="100"/>
+        android:duration="200"/>
     <item
         android:drawable="@drawable/arrow_01407"
-        android:duration="100"/>
+        android:duration="200"/>
     <item
         android:drawable="@drawable/arrow_01408"
-        android:duration="100"/>
+        android:duration="200"/>
     <item
         android:drawable="@drawable/arrow_01409"
-        android:duration="100"/>
+        android:duration="200"/>
 
 </animation-list>
