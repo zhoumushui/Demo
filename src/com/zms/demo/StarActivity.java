@@ -14,13 +14,18 @@ public class StarActivity extends Activity {
 	}
 
 	private void initialLayout() {
-		ImageLayout star001 = (ImageLayout) findViewById(R.id.star001);
-		star001.init(R.drawable.star_001, "001",
-				getResources().getColor(R.color.fancy_white));
+		ImageLayout star003 = (ImageLayout) findViewById(R.id.star003);
+		star003.init(R.drawable.star_003, "003",
+				getResources().getColor(R.color.fancy_black));
 
 		ImageLayout star002 = (ImageLayout) findViewById(R.id.star002);
 		star002.init(R.drawable.star_002, "002",
 				getResources().getColor(R.color.fancy_white));
+
+		ImageLayout star001 = (ImageLayout) findViewById(R.id.star001);
+		star001.init(R.drawable.star_001, "001",
+				getResources().getColor(R.color.fancy_white));
+
 	}
 
 }

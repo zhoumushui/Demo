@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:drawable="@drawable/star_00301"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/star_00302"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/star_00303"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/star_00304"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/star_00305"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/star_00306"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/star_00307"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/star_00308"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/star_00309"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/star_00310"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/star_00311"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/star_00312"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/star_00313"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/star_00314"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/star_00315"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/star_00316"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/star_00317"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/star_00318"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/star_00319"
+        android:duration="100"/>
+
+</animation-list>
