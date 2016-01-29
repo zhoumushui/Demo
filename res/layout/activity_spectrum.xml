@@ -239,6 +239,13 @@
             android:layout_height="@dimen/image_layout_height"
             android:layout_below="@id/spectrum030"
             android:layout_toRightOf="@id/spectrum033" />
+
+        <com.zms.demo.ImageLayout
+            android:id="@+id/spectrum035"
+            android:layout_width="@dimen/image_layout_width_x4"
+            android:layout_height="@dimen/image_layout_height"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@id/spectrum031" />
     </RelativeLayout>
 
 </ScrollView>
