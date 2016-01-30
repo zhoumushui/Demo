@@ -71,6 +71,20 @@
             android:layout_height="@dimen/image_layout_height"
             android:layout_below="@id/hand006"
             android:layout_toRightOf="@id/hand009" />
+
+        <com.zms.demo.ImageLayout
+            android:id="@+id/hand011"
+            android:layout_width="@dimen/image_layout_width"
+            android:layout_height="@dimen/image_layout_height"
+            android:layout_below="@id/hand007"
+            android:layout_toRightOf="@id/hand010" />
+
+        <com.zms.demo.ImageLayout
+            android:id="@+id/hand012"
+            android:layout_width="@dimen/image_layout_width"
+            android:layout_height="@dimen/image_layout_height"
+            android:layout_below="@id/hand008"
+            android:layout_toRightOf="@id/hand011" />
     </RelativeLayout>
 
 </ScrollView>
