@@ -14,6 +14,10 @@ public class HandActivity extends Activity {
 	}
 
 	private void initialLayout() {
+		ImageLayout hand010 = (ImageLayout) findViewById(R.id.hand010);
+		hand010.init(R.drawable.hand_010, "010",
+				getResources().getColor(R.color.fancy_yellow));
+
 		ImageLayout hand009 = (ImageLayout) findViewById(R.id.hand009);
 		hand009.init(R.drawable.hand_009, "009",
 				getResources().getColor(R.color.fancy_blue));
@@ -21,7 +25,7 @@ public class HandActivity extends Activity {
 		ImageLayout hand008 = (ImageLayout) findViewById(R.id.hand008);
 		hand008.init(R.drawable.hand_008, "008",
 				getResources().getColor(R.color.fancy_teal));
-		
+
 		ImageLayout hand007 = (ImageLayout) findViewById(R.id.hand007);
 		hand007.init(R.drawable.hand_007, "007",
 				getResources().getColor(R.color.fancy_red));
@@ -33,7 +37,7 @@ public class HandActivity extends Activity {
 		ImageLayout hand005 = (ImageLayout) findViewById(R.id.hand005);
 		hand005.init(R.drawable.hand_005, "005",
 				getResources().getColor(R.color.fancy_white));
-		
+
 		ImageLayout hand004 = (ImageLayout) findViewById(R.id.hand004);
 		hand004.init(R.drawable.hand_004, "004",
 				getResources().getColor(R.color.fancy_green));
