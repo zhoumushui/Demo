@@ -59,6 +59,13 @@
             android:layout_height="@dimen/image_layout_height"
             android:layout_alignParentLeft="true"
             android:layout_below="@id/light004" />
+
+        <com.zms.demo.ImageLayout
+            android:id="@+id/light009"
+            android:layout_width="@dimen/image_layout_width"
+            android:layout_height="@dimen/image_layout_height"
+            android:layout_below="@id/light005"
+            android:layout_toRightOf="@id/light008" />
     </RelativeLayout>
 
 </ScrollView>
