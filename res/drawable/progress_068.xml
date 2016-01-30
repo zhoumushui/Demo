@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:drawable="@drawable/progress_06801"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/progress_06802"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/progress_06803"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/progress_06804"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/progress_06805"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/progress_06806"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/progress_06807"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/progress_06808"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/progress_06809"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/progress_06810"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/progress_06811"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/progress_06812"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/progress_06813"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/progress_06814"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/progress_06815"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/progress_06816"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/progress_06817"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/progress_06818"
+        android:duration="200"/>
+
+</animation-list>
