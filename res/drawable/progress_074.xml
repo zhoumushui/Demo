@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:drawable="@drawable/progress_07400"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/progress_07401"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/progress_07402"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/progress_07403"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/progress_07404"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/progress_07405"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/progress_07406"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/progress_07407"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/progress_07408"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/progress_07409"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/progress_07410"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/progress_07411"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/progress_07412"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/progress_07413"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/progress_07414"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/progress_07415"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/progress_07416"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/progress_07417"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/progress_07418"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/progress_07419"
+        android:duration="100"/>
+
+</animation-list>
