@@ -14,6 +14,10 @@ public class LightActivity extends Activity {
 	}
 
 	private void initialLayout() {
+		ImageLayout light008 = (ImageLayout) findViewById(R.id.light008);
+		light008.init(R.drawable.light_008, "008",
+				getResources().getColor(R.color.fancy_white));
+
 		ImageLayout light007 = (ImageLayout) findViewById(R.id.light007);
 		light007.init(R.drawable.light_007, "007",
 				getResources().getColor(R.color.fancy_white));

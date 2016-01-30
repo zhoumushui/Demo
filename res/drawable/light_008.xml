@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:drawable="@drawable/light_00801"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/light_00802"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/light_00803"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/light_00804"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/light_00805"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/light_00806"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/light_00807"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/light_00808"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/light_00809"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/light_00810"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/light_00811"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/light_00812"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/light_00813"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/light_00814"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/light_00815"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/light_00816"
+        android:duration="100"/>
+
+</animation-list>
