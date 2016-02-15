@@ -1,4 +1,7 @@
-package com.zms.demo;
+package com.zms.demo.ui;
+
+import com.zms.demo.ImageLayout;
+import com.zms.demo.R;
 
 import android.app.Activity;
 import android.os.Bundle;
@@ -14,6 +17,11 @@ public class ProgressActivity extends Activity {
 	}
 
 	private void initialLayout() {
+
+		ImageLayout progress081 = (ImageLayout) findViewById(R.id.progress081);
+		progress081.init(R.drawable.progress_081, "081", getResources()
+				.getColor(R.color.fancy_white));
+
 		ImageLayout progress080 = (ImageLayout) findViewById(R.id.progress080);
 		progress080.init(R.drawable.progress_080, "080", getResources()
 				.getColor(R.color.fancy_red));

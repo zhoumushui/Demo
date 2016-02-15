@@ -56,8 +56,8 @@ public class MainActivity extends Activity {
 				long id) {
 			try {
 				Intent intent = new Intent(MainActivity.this,
-						Class.forName("com.zms.demo." + listData.get(position)
-								+ "Activity"));
+						Class.forName("com.zms.demo.ui."
+								+ listData.get(position) + "Activity"));
 				startActivity(intent);
 			} catch (ClassNotFoundException e) {
 				Toast.makeText(MainActivity.this,

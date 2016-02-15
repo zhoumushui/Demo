@@ -1,7 +1,8 @@
 package com.zms.demo;
 
+import com.zms.demo.R;
+
 import android.content.Context;
-import android.graphics.Color;
 import android.graphics.drawable.Animatable;
 import android.util.AttributeSet;
 import android.view.LayoutInflater;

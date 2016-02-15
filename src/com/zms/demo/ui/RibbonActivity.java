@@ -1,4 +1,7 @@
-package com.zms.demo;
+package com.zms.demo.ui;
+
+import com.zms.demo.ImageLayout;
+import com.zms.demo.R;
 
 import android.app.Activity;
 import android.os.Bundle;

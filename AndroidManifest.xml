@@ -25,40 +25,40 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.zms.demo.ArrowActivity"
+            android:name="com.zms.demo.ui.ArrowActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.zms.demo.BatteryActivity"
+            android:name="com.zms.demo.ui.BatteryActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.zms.demo.BellActivity"
+            android:name="com.zms.demo.ui.BellActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.zms.demo.FigureActivity"
+            android:name="com.zms.demo.ui.FigureActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.zms.demo.HandActivity"
+            android:name="com.zms.demo.ui.HandActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.zms.demo.LightActivity"
+            android:name="com.zms.demo.ui.LightActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.zms.demo.ProgressActivity"
+            android:name="com.zms.demo.ui.ProgressActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.zms.demo.RibbonActivity"
+            android:name="com.zms.demo.ui.RibbonActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.zms.demo.RippleActivity"
+            android:name="com.zms.demo.ui.RippleActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.zms.demo.SpectrumActivity"
+            android:name="com.zms.demo.ui.SpectrumActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.zms.demo.StarActivity"
+            android:name="com.zms.demo.ui.StarActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.zms.demo.TextActivity"
+            android:name="com.zms.demo.ui.TextActivity"
             android:screenOrientation="portrait" />
     </application>
 
