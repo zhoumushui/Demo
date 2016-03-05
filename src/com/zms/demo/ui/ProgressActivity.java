@@ -17,6 +17,9 @@ public class ProgressActivity extends Activity {
 	}
 
 	private void initialLayout() {
+		ImageLayout progress082 = (ImageLayout) findViewById(R.id.progress082);
+		progress082.init(R.drawable.progress_082, "082", getResources()
+				.getColor(R.color.fancy_white));
 
 		ImageLayout progress081 = (ImageLayout) findViewById(R.id.progress081);
 		progress081.init(R.drawable.progress_081, "081", getResources()
